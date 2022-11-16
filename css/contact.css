@@ -1,0 +1,32 @@
+html {
+  min-height: 100%;
+  transform: skew(60deg, -30deg);
+  font-family: "Hannari";
+}
+body {
+  padding-top: 30%;
+  text-align: center;
+}
+
+h1 {
+  letter-spacing: 20px;
+}
+
+table {
+  margin: auto;
+  border: solid 1px black;
+}
+
+th {
+  font-size: 40px;
+}
+
+.btn {
+  font-size: 30px;
+  margin-top: 30px;
+  background-color: aqua;
+}
+
+.sex {
+  font-size: 30px;
+}
